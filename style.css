@@ -41,7 +41,6 @@ header > h1{
     padding-top: 15px;
     margin-top: 0px;
     font-family: "Josefin Sans", sans-serif;
-    text-align: ;
 }
 
 header > p{
@@ -60,11 +59,11 @@ nav > a{
 }
 
 nav > a:hover{
-    background-color: #283e4b68;
+    background-color: #6398b92a;
 }
 
 nav > a:active{
-    background-color: #6398b92a;
+    background-color: #10395368;
 }
 
 main{

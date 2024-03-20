@@ -1,0 +1,144 @@
+@charset "UTF-8";
+
+.mae{
+    text-align: center;
+}
+
+.story{
+    width: 224px;
+    height: 400px;
+    border: 2px solid black;
+    background-size: cover;
+    background-position: center center;
+    display: inline-block;
+    margin: 13px;
+}
+
+.foto{
+    width: 224px;
+    height: 224px;
+    border: 2px solid black;
+    background-size: cover;
+    background-position: center center;
+    display: inline-block;
+    margin: 13px;
+}
+
+
+
+#s1{
+    background-image: url("imagens/s-1.jpeg");
+    
+}
+
+#s2{
+    background-image: url("imagens/s-2.jpeg");
+}
+
+#s3{
+    background-image: url("imagens/s-3.jpeg");
+}
+
+#s4{
+    background-image: url("imagens/s-4.jpeg");
+}
+
+#s5{
+    background-image: url("imagens/s-5.jpeg");
+}
+
+#s6{
+    background-image: url("imagens/s-6.jpeg");
+}
+
+#s7{
+    background-image: url("imagens/s-7.jpeg");
+}
+
+#s8{
+    background-image: url("imagens/s-8.jpeg");
+}
+
+#s9{
+    background-image: url("imagens/s-9.jpeg");
+}
+
+#s10{
+    background-image: url("imagens/s-10.jpeg");
+}
+
+#s11{
+    background-image: url("imagens/s-11.jpeg");
+}
+
+#s12{
+    background-image: url("imagens/s-12.jpeg");
+}
+
+#s13{
+    background-image: url("imagens/s-13.jpeg");
+}
+
+#s14{
+    background-image: url("imagens/s-14.jpeg");
+}
+
+#s15{
+    background-image: url("imagens/s-15.jpeg");
+}
+
+
+
+
+#f1{
+    background-image: url("imagens/1.jpeg");
+}
+
+#f2{
+    background-image: url("imagens/2.jpeg");
+}
+
+#f3{
+    background-image: url("imagens/3.jpeg");
+}
+
+#f4{
+    background-image: url("imagens/4.jpeg");
+}
+
+#f5{
+    background-image: url("imagens/5.jpeg");
+}
+
+#f6{
+    background-image: url("imagens/6.jpeg");
+}
+
+#f7{
+    background-image: url("imagens/7.jpeg");
+}
+
+#f8{
+    background-image: url("imagens/8.jpeg");
+}
+
+#f9{
+    background-image: url("imagens/9.jpeg");
+}
+
+#f10{
+    background-image: url("imagens/10.jpeg");
+}
+
+#f11{
+    background-image: url("imagens/11.jpeg");
+}
+
+#f12{
+    background-image: url("imagens/12.jpeg");
+}
+
+
+
+
+

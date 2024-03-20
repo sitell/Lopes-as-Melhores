@@ -59,11 +59,11 @@ nav > a{
 }
 
 nav > a:hover{
-    background-color: #6398b92a;
+    background-color: rgba(21, 75, 108, 0.408);
 }
 
 nav > a:active{
-    background-color: #10395368;
+    background-color: #6398b92a;
 }
 
 main{
